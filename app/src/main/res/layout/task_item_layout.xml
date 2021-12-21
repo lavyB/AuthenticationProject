@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="40dp">
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="80"
+        android:id="@+id/tvTaskText"
+        android:background="#BCE0BE"
+        />
+
+    <TextView
+        android:id="@+id/tvDeadLine"
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="25"
+        android:gravity="center"
+        android:background="#EEC0CE4D" />
+    <TextView
+        android:layout_width="1dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:textSize="30sp"
+        android:id="@+id/tvPriority"
+        android:background="#50A4FA"
+        android:gravity="center"
+        />
+
+</LinearLayout>

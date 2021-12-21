@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "881992185683",
+    "project_id": "todolistauthentication1",
+    "storage_bucket": "todolistauthentication1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881992185683:android:af555fb40842cc64fdd3a6",
+        "android_client_info": {
+          "package_name": "com.bnm.lavy.authenticationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881992185683-aqfeopt238f3meqg68lrks0fu0e14mat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleL83PAlAFi5g1OiIHf418lWOqN2IFUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881992185683-aqfeopt238f3meqg68lrks0fu0e14mat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881992185683:android:f655cbf21add180bfdd3a6",
+        "android_client_info": {
+          "package_name": "com.bnm.lavy.todolistproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881992185683-aqfeopt238f3meqg68lrks0fu0e14mat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCleL83PAlAFi5g1OiIHf418lWOqN2IFUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881992185683-aqfeopt238f3meqg68lrks0fu0e14mat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
